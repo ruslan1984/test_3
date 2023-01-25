@@ -1,0 +1,10 @@
+body {
+  font-family: Arial;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+.ant-radio-group.ant-radio-group-outline.ant-picker-calendar-mode-switch {
+  display: none;
+}
